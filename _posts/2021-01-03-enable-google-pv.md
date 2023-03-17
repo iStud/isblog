@@ -234,7 +234,7 @@ google_analytics:
 ```
 {: file="_config.yml"}
 
-Now, you should see the Page View enabled on your blog.
+Now, you 
 
 ## Reference
 
